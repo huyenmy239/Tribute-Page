@@ -6,4 +6,80 @@
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #eee;
+}
+
+#main {
+    margin: 0 15px;
+}
+
+header {
+    text-align: center;
+    padding: 70px 0 20px 0;
+}
+
+#title {
+    font-size: 35px;
+}
+
+.desc {
+    margin-top: 35px;
+}
+
+.img-section {
+    background: #fff;
+}
+
+#img-div {
+    padding: 0 200px;
+}
+
+img {
+    max-width: 100%;
+}
+
+#img-caption {
+    padding: 15px 10px 10px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.content {
+    padding: 55px 400px 30px;
+    font-size: 15px;
+}
+
+#tribute-info h4.title {
+    margin: 10px 0 50px;
+    text-align: center;
+    font-size: 18px;
+}
+
+#tribute-info ul li {
+    margin: 20px 0;
+}
+
+.year {
+    font-weight: bold;
+}
+
+.summary {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.author {
+    display: block;
+    margin: 30px 0 50px;
+    text-align: right;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+footer a {
+    color: rgb(47, 125, 131);
 }
